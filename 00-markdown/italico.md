@@ -2,4 +2,4 @@ Para um texto itálico, utilize 1 (um) asterisco antes e 1 (um) depois do texto 
 
 Sintaxe: \*Texto em itálico.\*
 
-Por exemplo: *texto em itálico aqui.*
+Por exemplo: *Texto em itálico.*
