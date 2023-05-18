@@ -1,4 +1,4 @@
-Para adicionar link a um texto, digite o texto entre colchetes e a url entre parênteses, em seguida
+Para adicionar link a um texto, digite o texto entre colchetes e, em seguida, a url entre parênteses.
 
 Sintaxe: \[texto\](url aqui)
 
