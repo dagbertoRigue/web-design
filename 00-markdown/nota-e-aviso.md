@@ -8,9 +8,9 @@ Sintaxe:
 
 Por exemplo:  
 
-> **Nota**: Este texto é referente à uma nota.  
+> **Note**: Este texto é referente à uma nota.  
 > 
-> **Aviso**: Este texto é referente à um aviso. 
+> **Warning**: Este texto é referente à um aviso. 
 
 
 
