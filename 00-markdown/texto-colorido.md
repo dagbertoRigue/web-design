@@ -10,12 +10,14 @@ Fechar o bloco diff com 3 (três) crazes.
 Sintaxe: 
 
 \`\`\`diff
-- texto em vermelho
-+ texto em verde
-! texto em laranja
-# texto em cinza
-@@ texto em roxo (e negrito)@@ 
-\`\`\`
+\- texto em vermelho
+\+ texto em verde
+\! texto em laranja
+\# texto em cinza
+@@ texto em roxo (e negrito) @@ 
+\`\`\`  
+---  
+
 
 Por exemplo: 
 
