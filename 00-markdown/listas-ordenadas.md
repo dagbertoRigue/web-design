@@ -2,4 +2,4 @@ Para criar uma lista ordenada, basta adicionar a tag ol e adicionar os itens den
 
 Sintaxe: \<ol\>\<li\>itema\<\/li\>\<li\>itemb\<\/li\>
 
-Por exemplo: 1. Primeiro item 2. Segundo item 3. Terceiro item
+Por exemplo: <ol><li>Primeiro item</li><li>Segundo item</li><li>Terceiro item</li>
