@@ -1,6 +1,6 @@
-Para adicionar um trecho de código, insira o texto entre aspas simples " ' ":
+Para adicionar um trecho de código, insira o texto entre crazes " ` ":
 
-Sintaxe: \'System.out.println("Hello world");\'
+Sintaxe: \`System.out.println("Hello world");\`
 
-Por exemplo: 'System.out.println("Hello world");'
+Por exemplo: `System.out.println("Hello world");`
 
