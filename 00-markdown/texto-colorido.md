@@ -8,13 +8,12 @@ o texto em roxo deve ser estar entre dois arrobas (@).
 Fechar o bloco diff com 3 (três) crazes.
 
 Sintaxe: 
-
-\`\`\`diff
-\- texto em vermelho
-\+ texto em verde
-\! texto em laranja
-\# texto em cinza
-@@ texto em roxo (e negrito) @@ 
+\`\`\`diff  
+\- texto em vermelho  
+\+ texto em verde  
+\! texto em laranja  
+\# texto em cinza  
+@@ texto em roxo (e negrito) @@   
 \`\`\`  
 ---  
 
