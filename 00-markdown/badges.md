@@ -13,8 +13,6 @@ Segue uma lista por categoria:
 
 
 ## Menu
-- [Como usar os Badges?](#como-usar-os-badges)
-- [Menu](#menu)
 - [Contato](#contato)
 - [Social](#social)
 - [Blog](#blog)
