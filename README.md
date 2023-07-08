@@ -1,6 +1,6 @@
 # Web Design
 ### Recursos front-end  
-Bem vindo, ao repositório de recursos webdesign 👋  
+Bem vindo, ao repositório de recursos web design 👋  
 ---  
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/dagbertoRigue/web-design/tree/main/01-html5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/dagbertoRigue/web-design/tree/main/02-css3)
