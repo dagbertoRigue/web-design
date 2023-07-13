@@ -1,11 +1,11 @@
-## HTML
+## CSS
 
-> HTML (HyperText Markup Language) é uma *linguagem de marcação* que informa aos navegadores da web como estruturar as páginas da web que você visita. Pode ser tão complicado ou tão simples quanto o desenvolvedor da Web desejar. O HTML consiste em uma série de elementos, que você usa para incluir, agrupar ou marcar diferentes partes do conteúdo para fazê-lo aparecer ou agir de uma determinada maneira. As tags anexas podem transformar o conteúdo em um hiperlink para conectar a outra página, colocar palavras em itálico e assim por diante..
+> CSS (Cascading Style Sheets) é usado para estilizar e fazer layout de páginas da web — por exemplo, para alterar a fonte, cor, tamanho e espaçamento do seu conteúdo, dividi-lo em várias colunas ou adicionar animações e outros recursos decorativos..
 
 
 <br></br>
 
-### HTML Summary
+### CSS Summary
 ---  
 ###### Sumário em ordem alfabética
 
