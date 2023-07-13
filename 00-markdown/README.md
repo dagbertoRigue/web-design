@@ -10,41 +10,24 @@ para escrever mensagens em fóruns de discussão online e para criar rich text u
 ---  
 ###### Sumário em ordem alfabética
 
-    [Badges](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/badges.md)  
-    
-    [Bloco de código](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/bloco-de-codigo.md)  
-    
-    [Citação](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/citacao.md)  
-    
-    [Emojis](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/emoji.md)  
-    
-    [Imagens](https://github.com/dagbertoRigue/web-design/tree/main/00-markdown)  
-    
-    [Imagens com link](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/imagem-com-link.md)  
-    
-    [Itálico](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/italico.md)  
-    
-    [Links Inline](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/link-inline.md)  
-    
-    [Listas Não Ordenadas](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/listas-nao-ordenadas.md)  
-    
-    [Listas Ordenadas](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/listas-ordenadas.md)  
-    
-    [Negrito](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/negrito.md)  
-    
-    [Notas de Rodapé](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/nota-de-rodape.md)  
-    
-    [Notas e Avisos](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/nota-e-aviso.md)  
-    
-    [Quebras de linhas](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/quebra-de-linha.md)  
-    
-    [Tabelas](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/tabelas.md)  
-    
-    [Tachado](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/tachado.md)  
-    
-    [Textos Coloridos](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/texto-colorido.md)  
-    
-    [Títulos](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/titulos-h1-ao-h6.md)  
-    
-    [Trechos de Código](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/trecho-de-codigo.md)  
-    
+1. [Badges](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/badges.md)  
+2. [Bloco de código](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/bloco-de-codigo.md)  
+3. [Citação](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/citacao.md)
+4. [Emojis](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/emoji.md)
+5. [Imagens](https://github.com/dagbertoRigue/web-design/tree/main/00-markdown)
+6. [Imagens com link](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/imagem-com-link.md)
+7. [Itálico](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/italico.md)
+8. [Links Inline](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/link-inline.md)
+9. [Listas Não Ordenadas](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/listas-nao-ordenadas.md)  
+10. [Listas Ordenadas](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/listas-ordenadas.md)
+11. [Negrito](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/negrito.md)
+12. [Notas de Rodapé](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/nota-de-rodape.md)
+13. [Notas e Avisos](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/nota-e-aviso.md)
+14. [Quebras de linhas](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/quebra-de-linha.md)
+15. [Tabelas](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/tabelas.md)
+16. [Tachado](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/tachado.md)
+17. [Textos Coloridos](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/texto-colorido.md)
+18. [Títulos](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/titulos-h1-ao-h6.md)
+19. [Trechos de Código](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/trecho-de-codigo.md)  
+
+      
