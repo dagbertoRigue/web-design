@@ -5,6 +5,7 @@ Markdown converte seu texto em HTML válido. Markdown é frequentemente usado pa
 para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
 
 <br></br>
+[Badges](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/badges.md)
 
 ### Markdown Summary
 ---  
