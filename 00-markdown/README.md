@@ -10,7 +10,7 @@ para escrever mensagens em fóruns de discussão online e para criar rich text u
 ---  
 ###### Sumário em ordem alfabética
 <ul>
-    <li>[Badges](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/badges.md)</li>
+    [Badges](https://github.com/dagbertoRigue/web-design/blob/main/00-markdown/badges.md)
     <li>[Bloco de código]()</li>
     <li>[Citação]()</li>
     <li>[Emojis]()</li>
