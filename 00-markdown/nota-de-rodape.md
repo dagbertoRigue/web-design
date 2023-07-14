@@ -5,5 +5,6 @@ Sintaxe: Aqui está uma simples nota de rodapé[\^1\]
 Por exemplo:   
 
 Aqui está uma simples nota de rodapé[^1]. 
+[^1]: Minha nota de rodapé.
 ---  
-[^1]: Minha Referencia favorita.
+Notas:
