@@ -1,4 +1,4 @@
-// comentário de única linha são feitos com barra dupla
+// comentários de única linha são feitos com barra dupla
 
 /* 
 comentários maiores escritos
