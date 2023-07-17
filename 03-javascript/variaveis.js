@@ -11,4 +11,4 @@ Literais: são as representações binárias (que tem dois elementos -> chave + 
 */
 	var firstName = "André";
 	let flag = true;
-	const pi = 3,14;
+	const pi = 3.14;
