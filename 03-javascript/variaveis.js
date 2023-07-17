@@ -10,5 +10,9 @@ Literais: são as representações binárias (que tem dois elementos -> chave + 
 	Por exemplo:
 */
 	var firstName = "André";
+	var age = 18;
+	
+	let city = "Québec";
 	let flag = true;
+	
 	const pi = 3.14;
