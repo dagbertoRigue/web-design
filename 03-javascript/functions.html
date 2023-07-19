@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        
+        //Função literal
+        function somar(n1, n2) {
+                // corpor da funcao
+                return n1 + n2;
+            }   
+        var soma = somar(10, 20);
+        console.log('Resultado: ', soma);
+            
+        //Javascript é uma linguagem funcional - funções são tratados como objetos
+        somar.teste = 'Propriedade da função';
+        console.log(somar.teste);
+        
+        //Variável recebendo uma função como objeto
+        var f1 = function(){
+            console.log('Variável f1 recebendo uma função como um objeto.');
+        }(); //obs: o abre e fecha parênteses no final chama a execução da função
+        
+        //Passando função como parâmetro
+        var f2 = function(f){
+            f();
+        };        
+        f2(function(){
+            console.log('Função f2 passada por parametro');
+        });
+            
+        //Escopo global e escopo local:
+        //adicionar a notação "var" dentro da função, torna ela interna à função
+        //Caso fosse escrito x=10 dentro da função, ela seria uma variável de escopo global           
+            
+        var x = 0;
+        var y;        
+        function mostraX(){
+            var x = 10; //escopo local
+            y = 20;     //escopo global
+            console.log("mostra x dentro: " , x);
+            console.log("mostra y dentro: " , y);
+        }
+        mostraX()
+        
+        console.log("mostra x fora: " , x);
+        console.log("mostra y fora: " , y);
+            
+        //Funções Auto-executáveis (função entre parênteses, seguido de parênteses e ponto e vírgula)    
+        //IIFE - Immediately-invoked function expression
+        (function(){
+            'use strict'; //opcional (usado dentro da função para definição das variáveis locais)
+            var isValid = false;
+            console.log(isValid);
+            
+            function somar(){
+                console.log(arguments);
+                var result = 0;
+                var x = 0;
+                
+                while(arguments[x]){
+                    result += arguments[x];
+                    x++;
+                }
+                console.log('Result: ', result);
+            }            
+            somar(20, 20, 10, 5, 5, 15);
+        })();
+
+        /*---------------------------------------*/
+        /*Exemplo 1: Criar uma função que retorne a média de números passados por parâmetro
+         *Essa função pode receber quantos números forem necessários.
+         *Teste a: calcularMedia(2,4) -> 3
+         *Teste b: calculaMedia(1,1,2,3,5) -> 2,4
+        */
+        (function(){
+                function calcularMedia(){                    
+                    
+                    var total = 0;
+                    var qtd = arguments.length;
+                    var x = 0;
+                    //while(arguments[x]){
+                    while(typeof arguments[x] === 'number'){
+                        total += arguments[x];
+                        x++
+                    }                    
+                    
+                    return total / qtd;
+                }
+                var media1 = calcularMedia(2,4);
+                var media2 = calcularMedia(1,1,2,3,5);
+                var media3 = calcularMedia(4, 0, 10, 10); //necessita do typeof, pois 0 (zero) = false
+                
+                console.log('media1: ', media1)
+                console.log('media2: ', media2)
+                console.log('media3: ', media3)
+            })();
+
+        /*---------------------------------------*/
+        /*Exemplo 2: Crie uma função que retorne o índice de massa corporal (IMC)
+        *Crie uma outra função que receba este índice e retorne uma string informando sua classificação
+        */
+        (function(){
+                function calcularIMC(peso, altura, callback){
+                    var imc = peso / (altura * altura); 
+                    
+                    if(callback && typeof callback === 'function'){
+                        //verifica se existe a chamada da função "classificaIMC"
+                        //caso ela exista (linha142) retorna a classificação
+                        //se não, mostra o IMC
+                        return callback(imc); 
+                    }
+                    console.log('nao passou callback')
+                    return imc;
+                }
+                
+                function classificaIMC(imc){
+                                        
+                    if(imc <= 16.9 ){
+                        return 'muito abaixo do peso';
+                    } else if (imc <= 18.4){
+                        return 'abaixo do peso';
+                    } else if(imc <= 24.9){
+                        return 'normal';
+                    } else if(imc <= 29.9) {
+                        return 'acima do peso';
+                    } else if(imc <= 34.9){
+                        return 'obesidade 1';
+                    } else if(imc <= 40){
+                        return 'obesidade 2';
+                    } else {
+                        return 'obesidade 3';
+                    }
+                }
+                
+                var peso = 65;
+                var altura = 1.75;
+                
+                //var imc = calcularIMC(peso, altura, classificaIMC);
+                var imc = calcularIMC(peso, altura);
+                
+                console.log('classificacao IMC: ', imc);
+                
+            })()
+    </script>
+</head>
+<body>
+    <h2>Funções javascript</h2>
+    
+</body>
+</html>
