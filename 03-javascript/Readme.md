@@ -11,3 +11,4 @@
 
 1. [Comentários em códigos javascript](https://github.com/dagbertoRigue/web-design/blob/main/03-javascript/comentarios.js)  
 2. [Variáveis](https://github.com/dagbertoRigue/web-design/blob/main/03-javascript/variaveis.js)
+3. [Funções](https://github.com/dagbertoRigue/web-design/blob/main/03-javascript/functions.html)
