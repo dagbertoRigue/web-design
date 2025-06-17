@@ -1,4 +1,5 @@
-teste: ![Linguagem](https://img.shields.io/badge/Linguagem-Em%20desenvolvimento-green)
+teste: ![Java](https://img.shields.io/badge/Java--red)
+
 Usando imagens e links, você pode criar alguns recursos coloridos no momento da renderização.  
 
 Acesse alguns badges [aqui!](https://shields.io/)  
