@@ -1,4 +1,4 @@
-![Java](https://img.shields.io/badge/Java--red.svg?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML--blue.svg?style=for-the-badge&logo=html)
 
 Usando imagens e links, você pode criar alguns recursos coloridos no momento da renderização.  
 
